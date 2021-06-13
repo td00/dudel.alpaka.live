@@ -236,7 +236,7 @@
    },
    "Mail": {
       "Author's message": "Nachricht vom Autor ",
-      "FOOTER": "Dies ist ein Angebot der Jugendförderung der Samtgemeinde Isenbüttel \"<br/><a href='https://rabenspass.de/impressum'>Impressum</a><br/><a href='https://www.rabenspass.de/datenschutzerklaerung/'>Datenschutzerklärung</a>",
+      "FOOTER": "Dies ist ein Angebot der Jugendförderung der Samtgemeinde Isenbüttel<br/><a href='https://rabenspass.de/impressum'>Impressum</a><br/><a href='https://www.rabenspass.de/datenschutzerklaerung/'>Datenschutzerklärung</a>",
       "For sending to the polled users": "Nachricht für die Teilnehmer*Innen",
       "Notification of poll: %s": "Mitteilung bezüglich der Umfrage: %s",
       "Poll's participation: %s": "Beteiligung an der Umfrage: %s",
