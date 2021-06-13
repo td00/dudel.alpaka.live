@@ -28,7 +28,7 @@ if (session_id() === '') {
 }
 
 if (ini_get('date.timezone') === '') {
-    date_default_timezone_set('Europe/Paris');
+    date_default_timezone_set('Europe/Berlin');
 }
 
 define('ROOT_DIR', __DIR__ . '/../../');
@@ -44,8 +44,8 @@ if (is_file(CONF_FILENAME)) {
     RepositoryFactory::init($connect);
     $err = 0;
 } else {
-    define('NOMAPPLICATION', 'Framadate');
-    define('DEFAULT_LANGUAGE', 'fr');
+    define('NOMAPPLICATION', 'Rabenspass Terminfindung');
+    define('DEFAULT_LANGUAGE', 'de');
     define('IMAGE_TITRE', 'images/logo-framadate.png');
     define('LOG_FILE', 'admin/stdout.log');
     $ALLOWED_LANGUAGES = [
