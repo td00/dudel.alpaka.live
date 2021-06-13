@@ -3,11 +3,11 @@
       "Define dates or subjects to choose": "Define dates or subjects to choose from",
       "Discuss and make a decision": "Discuss and make a decision",
       "Do you want to": "Do you want to",
-      "Framadate is an online service for planning an appointment or make a decision quickly and easily. No registration is required.": "Framadate is an online service for planning an appointment or making a decision quickly and easily. No registration is required.",
+      "Framadate is an online service for planning an appointment or make a decision quickly and easily. No registration is required.": "Rabenspass Terminfindung is an online service for planning an appointment or making a decision quickly and easily. No registration is required.",
       "Here is how it works:": "Here is how it works:",
       "Make a poll": "Create a poll",
       "Send the poll link to your friends or colleagues": "Send the poll link to your friends or colleagues",
-      "What is that?": "What is Framadate?",
+      "What is that?": "What is Rabenspass Terminfindung?",
       "view an example?": "view an example?"
    },
    "2nd section": {
@@ -187,7 +187,7 @@
       "Day": "Day",
       "Description": "Description",
       "Edit": "Edit",
-      "Framadate is an online service for planning an appointment or make a decision quickly and easily.": "Framadate is an online service for planning an appointment or make a decision quickly and easily.",
+      "Framadate is an online service for planning an appointment or make a decision quickly and easily.": "Rabenspass Terminfindung is an online service for planning an appointment or make a decision quickly and easily.",
       "Home": "Home",
       "Ifneedbe": "Under reserve",
       "Legend:": "Legend:",
@@ -240,7 +240,7 @@
    },
    "Mail": {
       "Author's message": "Author's message",
-      "FOOTER": "\"The road is long, but the way is clear…\"<br/>Framasoft lives only by your donations.<br/>Thank you in advance for your support https://soutenir.framasoft.org",
+      "FOOTER": "This is a service provided by Rabenspass (Samtgemeinde Isenbüttel)<br/><a href='https://rabenspass.de/impressum'>Imprint</a><br/><a href='https://rabenspass.de/datenschutzerklaerung'>Privacy Policy</a>",
       "For sending to the polled users": "Participant link",
       "Notification of poll: %s": "Notification of poll: %s",
       "Poll's participation: %s": "Poll participation: %s",
